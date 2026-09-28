@@ -1,0 +1,7 @@
+fastmcp>=2.10,<3
+ddgs>=9.0
+trafilatura>=2.0
+uvicorn>=0.30
+httpx>=0.27
+Pillow>=10.0
+primp>=2.0
